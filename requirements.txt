@@ -1,2 +1,7 @@
-qiskit
-matplotlib 
+qiskit>=1.0.0
+qiskit-aer>=0.12.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+sympy>=1.12.0
+langchain>=0.1.0
+langgraph>=0.0.10 
